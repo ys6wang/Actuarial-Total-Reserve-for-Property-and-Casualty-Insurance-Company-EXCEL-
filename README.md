@@ -1,0 +1,2 @@
+# Actuarial-Total-Reserve-for-Property-and-Casualty-Insurance-Company-EXCEL-
+## ​Applied actuarial methods such as appropriated adjustment to estimate reserve and unpaid payout. Preprocessed data with diagnostic tests to determine hidden characteristics; included characteristics in final estimation of reserve. Analyzed advantages and disadvantages for each actuarial method recommending appropriate approach to match each business line with financial context.
